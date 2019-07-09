@@ -1,0 +1,2 @@
+#!/bin/bash
+out/java-runtime/bin/java --module-path lib/javafx-sdk-12.0.1/lib --add-modules=javafx.controls -jar out/artifacts/ClamShell_jar/ClamShell.jar
